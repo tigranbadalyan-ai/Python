@@ -21,6 +21,7 @@ This repository is dedicated to my progress in mastering Python, from core synta
 
 ### Section 1: Python Fundamentals
 * [x] **[Python Basics](./python_basics.ipynb)** — Variables, Data Types and Conditional Statements.
+* [x] **[Loops & Iterations](./3_Loops_python.ipynb)** — Mastering `while` and `for` loops to automate repetitive tasks.
 * [ ] **Data Structures** — Deep dive into Lists, Dictionaries, Tuples, and Sets.
 * [ ] **Functions & Modules** — Writing reusable code, *args, **kwargs, and importing modules.
 
